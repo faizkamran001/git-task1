@@ -1,0 +1,3 @@
+this is simple text
+HELLO,world this is my first git repository
+students details
